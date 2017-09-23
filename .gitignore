@@ -1,5 +1,7 @@
 *.pyc
+*.db
 __pycache__
 img
 static
-blog
+media
+node_modules
