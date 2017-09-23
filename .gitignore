@@ -1,8 +1,7 @@
 *.pyc
-*.db
+project.db
 __pycache__
 img
-static
 media
 node_modules
 migrations
