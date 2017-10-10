@@ -484,3 +484,24 @@ body {
         padding-right: 0;
     }
 }
+
+.back{
+  background: #262626;
+  color: #CAD2D9;
+  font-size: 16px;
+  padding: 12px 24px 12px 19px;
+  position: fixed;
+  top: 80px;
+  left: 10px;
+  z-index: 10;
+}
+
+.back a,.back a:hover, .back a:focus, .back a:visited{
+  background-color: #262626 !important;
+  color: inherit;
+  text-decoration: none;
+}
+
+.back a:hover{
+  color: #82888C;
+}
