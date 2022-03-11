@@ -57,7 +57,7 @@ olefile==0.44
 openpyxl==2.4.8
 phonenumbers==8.7.1
 phonenumberslite==8.7.1
-Pillow==4.2.1
+Pillow==9.0.1
 premailer==3.1.1
 python-dateutil==2.6.1
 python-slugify==1.2.0
